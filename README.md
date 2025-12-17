@@ -1,7 +1,7 @@
 # Quantitative_Finance_25autumn
 对金融数据的深度学习预测和回测。
 
-12.14  模块化完成。在config.py中调整训练/回测参数并选择标的数据集。
+12.14  LSTM的模块化完成。补充了指数ETF标的数据集。在config.py中调整训练/回测参数并选择标的数据集。
 
 12.15  支持单向与双向LSTM。在train.py和backtest.py中通过注释选择想用的模型。
 
